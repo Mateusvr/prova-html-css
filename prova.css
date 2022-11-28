@@ -1,0 +1,46 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+    margin: auto;
+    width: 35%;
+    border-color: green;
+    border: 3px solid green;
+    border-radius: 5px;
+    background-color: greenyellow;
+    padding: 5px 100px 5px 100px;
+ }
+
+.label{
+    display: block;
+ }
+
+#bsubmit{
+    margin-top: 15px;
+    color: rgb(240, 255, 255);
+    background-color: green;
+    border-color: green;
+}
+
+#breset{
+    color: green;
+    background-color: #e4e5e7;
+}
+
+.header{
+    background-color: greenyellow;
+}
+.img{
+    max-width: 400px;
+}
+
+#footer{
+    background-color: #004d00;
+    color: greenyellow;
+    bottom: 0;
+    clear: both;
+    width: 100%;
+}
